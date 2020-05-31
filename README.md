@@ -1,2 +1,2 @@
 # ecom_app
-This repository contains multiple microserivices for an e-commerece application developed as per microservice architecture.
+This repository contains multiple microserivices for an e-commerece application developed as per microservice architecture. Patterns used for interservice communication is event-driven implementing SAGA pattern for most transactions while fetching products from carts have been implemented as per CQRS pattern for microservices. Queries requiring data to be aggregted from multiple services is implemented as an orchestrator inside the api gateway itself. While the query requiring to communicate with only one other service do request-reply based interaction using one-to-one message queues of RabbitMQ.
