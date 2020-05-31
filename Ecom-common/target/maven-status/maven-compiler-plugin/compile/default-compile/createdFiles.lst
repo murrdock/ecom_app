@@ -1,0 +1,10 @@
+com/acme/ecom/common/delivery/event/OrderDeliveryFailedEvent.class
+com/acme/ecom/common/core/order/event/OrderUpdatedEvent.class
+com/acme/ecom/common/delivery/event/OrderDeliveredEvent.class
+com/acme/ecom/common/core/order/event/OrderCancelledEvent.class
+com/acme/ecom/common/core/dto/OrderDTO.class
+com/acme/ecom/common/core/inventory/event/InventoryUpdateEvent.class
+com/acme/ecom/common/core/dto/LineItemDTO.class
+com/acme/ecom/common/shipping/event/OrderShippedEvent.class
+com/acme/ecom/common/core/order/event/OrderCreatedEvent.class
+com/acme/ecom/common/core/dto/InventoryDTO.class

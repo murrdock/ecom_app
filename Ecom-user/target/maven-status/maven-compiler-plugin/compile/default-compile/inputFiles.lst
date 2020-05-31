@@ -1,0 +1,15 @@
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/service/impl/CustomerServiceImpl.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/model/RoleEnum.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/model/UserRole.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/EcomUserMicroserviceApplication.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/model/User.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/repository/UserRepository.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/repository/OnlineUserRepository.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/dto/CustomerDTO.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/dto/AddressDTO.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/exception/InvalidUserException.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/model/Address.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/service/CustomerService.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/controller/UserController.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/model/OnlineUser.java
+/home/arora/Desktop/PE/ecom/Ecom-user/src/main/java/com/acme/ecom/user/dto/UserCredentialDTO.java

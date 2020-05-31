@@ -1,0 +1,15 @@
+com/acme/ecom/user/EcomUserMicroserviceApplication.class
+com/acme/ecom/user/model/UserRole.class
+com/acme/ecom/user/repository/UserRepository.class
+com/acme/ecom/user/model/OnlineUser.class
+com/acme/ecom/user/repository/OnlineUserRepository.class
+com/acme/ecom/user/dto/UserCredentialDTO.class
+com/acme/ecom/user/controller/UserController.class
+com/acme/ecom/user/exception/InvalidUserException.class
+com/acme/ecom/user/model/User.class
+com/acme/ecom/user/service/impl/CustomerServiceImpl.class
+com/acme/ecom/user/model/RoleEnum.class
+com/acme/ecom/user/service/CustomerService.class
+com/acme/ecom/user/dto/AddressDTO.class
+com/acme/ecom/user/model/Address.class
+com/acme/ecom/user/dto/CustomerDTO.class

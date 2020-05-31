@@ -1,0 +1,27 @@
+zuul:
+  routes:
+    ecom-core:
+      path: /core/∗∗
+      service-id: ecom-core
+    ecom-user:
+      path: /customer/∗∗
+      service-id: ecom-user
+    ecom-cart:
+      path: /cart/∗∗
+      service-id: ecom-cart
+    ecom-product:
+      path: /product/∗∗
+      service-id: ecom-product
+    ecom-history:
+      path: /orderhistory/∗∗
+      service-id: ecom-history
+    ecom-delivery:
+      path: /delivery/∗∗
+      service-id: ecom-delivery
+    ecom-shipping:
+      path: /shipping/∗∗
+      service-id: ecom-shipping
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
